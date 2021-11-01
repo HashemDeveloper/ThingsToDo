@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ThingsToDo</string>
+    <string name="add_button">Add Button</string>
+    <string name="search_task">Search Task</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="delete_all_icon">Delete All Icon</string>
+    <string name="delete_all">Delete All</string>
+    <string name="search_placeholder">Search</string>
+    <string name="tasks">Tasks</string>
+    <string name="disssatisfied_icon">Dissatisfied Icon</string>
+    <string name="no_task_found">No Task Found</string>
+    <string name="add_task">Add Task</string>
+    <string name="arrow_icon">Back Arrow Icon</string>
+    <string name="add_icon">Add Icon</string>
+    <string name="close_icon">Close Icon</string>
+    <string name="delete_icon">Delete Icon</string>
+    <string name="update_icon">Update Icon</string>
+    <string name="dropdown_arrow">Drop down arrow</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="empty_fields">Empty Fields</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete_task">Remove \'%1$s\'?</string>
+    <string name="delete_confirmation">Are you sure you want to delete \'%1$s\'?</string>
+    <string name="logo_icon">Logo Icon</string>
+</resources>

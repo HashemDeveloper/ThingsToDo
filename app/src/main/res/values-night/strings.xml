@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_all">Delete All</string>
+    <string name="search_placeholder">Search</string>
+    <string name="tasks">Tasks</string>
+    <string name="disssatisfied_icon">Dissatisfied Icon</string>
+    <string name="no_task_found">No Task Found</string>
+    <string name="add_task">Add Task</string>
+    <string name="arrow_icon">Back Arrow Icon</string>
+    <string name="add_icon">Add Icon</string>
+    <string name="close_icon">Close Icon</string>
+    <string name="delete_icon">Delete Icon</string>
+    <string name="update_icon">Update Icon</string>
+    <string name="dropdown_arrow">Drop down arrow</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="empty_fields">Empty Fields</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="logo_icon">Logo Icon</string>
+</resources>
